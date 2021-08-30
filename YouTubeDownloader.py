@@ -1,3 +1,10 @@
+# -----------------------------------------------------------------------------
+#
+# Youtube Video Downloader
+# Language - Python
+# Modules - Pytube - tkinter - subprocess - threading
+#
+# By - Darwin
 import tkinter as tk
 from tkinter import ttk
 import os
